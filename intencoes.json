@@ -1,8 +1,14 @@
 {"intencoes": [
-  { "categoria": "saudacoes",
+  {
+    "categoria": "saudacoes",
     "padroes": ["ola!", "oi!", "tudo bem?", "como vai?", "bom dia", "boa tarde", "boa noite", "sarava",
     "salve", "e ai"],
     "respostas": ["Oi!", "Salve, salve!"]
+  },
+  {
+    "categoria": "despedidas",
+    "padroes": ["adeus", "tchau", "ate mais!", "ate logo", "bye", "adios", "fui", "falou", "flw"],
+    "respostas": ["Foi um prazer! Tchauzinho!", "Tchau, tchau!"]
   }
 ]
 }

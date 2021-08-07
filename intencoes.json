@@ -9,6 +9,16 @@
     "categoria": "despedidas",
     "padroes": ["adeus", "tchau", "ate mais!", "ate logo", "bye", "adios", "fui", "falou", "flw"],
     "respostas": ["Foi um prazer! Tchauzinho!", "Tchau, tchau!"]
+  },
+  {
+    "categoria": "idade",
+    "padroes": ["quantos anos voce tem?", "qual sua idade?", "quando voce nasceu?"],
+    "respostas": ["Eu ainda sou um feto!"]
+  },
+  {
+    "categoria": "nome",
+    "padroes": ["como voce se chama?", "qual seu nome?", "como posso te chamar?"],
+    "respostas": ["Meu nome é MoonTalker!"]
   }
 ]
 }
